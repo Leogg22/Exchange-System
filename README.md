@@ -1,4 +1,4 @@
-# Currency Exchange System 💱
+# Currency Exchange System 💱 - HighSchool Project
 
 ## Overview
 The **Currency Exchange System** is a comprehensive application developed in Visual Studio using C#. This system allows users to view, calculate, and convert between different currencies in real time. Designed as a practical project, it prioritizes security, accuracy, and user-friendly interaction, making it ideal for anyone looking to handle foreign currency transactions or get updated exchange rate information.
